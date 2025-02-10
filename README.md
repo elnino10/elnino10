@@ -1,4 +1,9 @@
-## Hi there 👋
+### Hi there 👋
+My name is Joseph Egboka, I am an ALX Africa trained software engineer interested in building software systems and networking!
+
+- 🔭 I’m currently working on [Rollog API](https://api.rollog.xyz/api), building a product changelog messenger for changes and updates made on software products.
+- 🌱 I’m currently learning `Blockchain` development and looking to specialise in `web3.0`
+- 👯 I’m looking to collaborate on exciting and challenging web2.0, web3.0 and AI-powered products
 
 <!--
 **elnino10/elnino10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
