@@ -1,4 +1,4 @@
-<h2><u>👋 Hi, I'm Joseph</u></h2>
+<h2><u>👋 Hi, I'm Joe</u></h2>
 🚀 **Software Engineer | Blockchain Enthusiast | Web3.0**</br>
 🎯 Passionate about building scalable systems, optimizing performance, and writing clean, maintainable code.
 
