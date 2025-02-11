@@ -34,6 +34,12 @@
 - 🌱 I’m currently learning `Blockchain` development and looking to specialise in `web3.0`
 - 👯 I’m looking to collaborate on exciting and challenging web2.0, web3.0 and AI-powered products
 
+### Hobbies
+- 📖 Reading fictional and business books
+- 🎮 Playing video games
+- 🏓 I enjoy table tennis
+- 🚶🏾‍♂️ Taking a walk and touching grass
+
 <!--
 **elnino10/elnino10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
