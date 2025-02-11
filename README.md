@@ -29,6 +29,9 @@
 ##### ⚡ Tools & Technologies:  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![CI/CD](https://img.shields.io/badge/CI/CD-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  
 
+##### 🔗 Blockchain Development
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+
 ### Projects and Interests
 - 🔭 I’m currently working on [Rollorg API](https://api.rollog.xyz/api), building a product changelog messenger for changes and updates made on software products.
 - 🌱 I’m currently learning `Blockchain` development and looking to specialise in `web3.0`
