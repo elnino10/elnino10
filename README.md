@@ -33,7 +33,7 @@
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
 ### Projects and Interests
-- 🔭 I’m currently working on [Rollorg API](https://api.rollog.xyz/api), building a product changelog messenger for changes and updates made on software products.
+- 🔭 I’m currently working on [Rollorg API](https://api.rollog.xyz/api), building a product changelog messenger for software products.
 - 🌱 I’m currently learning `Blockchain` development and looking to specialise in `web3.0`
 - 👯 I’m looking to collaborate on exciting and challenging web2.0, web3.0 and AI-powered products
 
