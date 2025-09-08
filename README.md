@@ -36,6 +36,7 @@
 - 🔭 I’m currently working on [Rollorg API](https://api.rollog.xyz/api), building a product changelog messenger for software products.
 - 🌱 I’m currently learning `Blockchain` development and looking to specialise in `web3.0`
 - 👯 I’m looking to collaborate on exciting and challenging web2.0, web3.0 and AI-powered products
+- 🦾 I'm also upskilling by learning Golang to be able to build softwares with Go.
 
 ### Hobbies
 - 📖 Reading fictional and business books
